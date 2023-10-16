@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=im-sanja-sr&show_icons=true&locale=en" alt="im-sanja-sr" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=im-sanja-sr&" alt="im-sanja-sr" /></p>
+
